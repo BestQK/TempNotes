@@ -1,17 +1,14 @@
 Personal Strengths:
 1. Solid JAVA foundation, more than 8 years of Java back-end development experience, and familiar with Python language;
-2. Familiar with mainstream frameworks or technologies such as Spring Boot, Spring Cloud, Mybatis, and the ability to 
-build highly available and scalable microservice architecture;
-3. Have a deep understanding of the basic theory and internal implementation mechanism of databases, and can
-skillfully use MySQL/Oracle/PostgresSql;
-4. Familiar with distributed, caching, messaging, search and other mechanisms, familiar with Redis, Zookeeper,
-Elasticsearch
+2. Familiar with Spring Boot, Spring Cloud, Mybatis, and the ability to build highly available and scalable microservice architecture;
+3. Can skillfully use MySQL/Oracle/PostgresSql;
+4. Familiar with distributed, caching, messaging, search, familiar with Redis, Zookeeper,Elasticsearch
 5. Good at system analysis and design, code reconstruction, large-scale project foundation and application architecture 
 design experience;
-6. Familiar with common operation and maintenance technology, Docker, K8s and Jenkins, able to realize continuous 
+6. Familiar with Docker, K8s and Jenkins, able to realize continuous 
 integration and automated deployment;
 7. Be familiar with front-end technologies, such as HTML, CSS and JavaScript;
-Understand big data technology architecture, such as Hadoop, Spark, Hive;
+Understand big data technology, such as Hadoop, Spark, Hive;
 9. Have SaaS experience, follow the principles of agile development, cross-functional team collaboration, shorten the 
 product iteration cycle;
 10. Have working experience in foreign companies, with professional English document reading, writing and oral 
@@ -31,7 +28,7 @@ Main responsibilities:
 ● Think about products from the user's perspective; Undertake part of product manager work when necessary, do 
 demand collection and cleaning;
 ● Review team members' code, participate in group technology learning and sharing, and promote team members' 
-technical and soft quality improvement;
+technical;
 ● Refactoring the computing engine, introducing the chain of responsibility design pattern to improve the system 
 scalability;
 ● Quartz asynchronously processes computing requests to realize business decoupling;
@@ -44,8 +41,8 @@ Contents:
 Online management of hundreds of thousands of market housing and public rental housing, mainly including housing 
 release, map housing, rental application, contract signing and filing, public rental rental, message push. It has landed in 
 dozens of cities such as Sanya, Wuxi, Changde, Zhongxian and Hegang.
-Technical architecture: SprinBoot, ElasticSearch, Redis, Activiti, 
-Docker Main responsibilities:
+Technical architecture: SprinBoot, ElasticSearch, Redis, Activiti, Docker 
+Main responsibilities:
 ● Participate in technical architecture design, refactoring and optimization of existing code;
 ● Participate in component code writing, development and maintenance of system functions and business functions;
 ● Acted as the R&D team leader to assign tasks, formulate schedules, coordinate and communicate, and report work 
@@ -66,8 +63,8 @@ Contents:
 ERP system of steel trading platform, based on Dubbo microservice architecture, provides full chain management for 
 upstream suppliers and downstream customers, including agreement, logistics, inspection, inventory, unloading, order 
 and settlement management, etc.
-Technical architecture: SpringBoot, Dubbo, Zookeeper, Mybatis, Mysql, 
-RabbitMQ Main responsibilities
+Technical architecture: SpringBoot, Dubbo, Zookeeper, Mybatis, Mysql, RabbitMQ 
+Main responsibilities
 ● Responsible for the front-end and back-end development of the rack-down module, participate in the module 
 development, demand analysis and design, interface design, table design and interface docking;
 ● Use RabbitMQ to connect supplier systems to improve system response and concurrency capabilities;
