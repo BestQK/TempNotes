@@ -1,61 +1,60 @@
 Personal Strengths:
-1. Solid JAVA foundation, more than 8 years of Java back-end development experience, and familiar with Python language;
-2. Familiar with Spring Boot, Spring Cloud, Mybatis, and the ability to build highly available and scalable microservice architecture;
-3. Can skillfully use MySQL/Oracle/PostgresSql;
-4. Familiar with distributed, caching, messaging, search, familiar with Redis, Zookeeper,Elasticsearch
-5. Good at system analysis and design, code reconstruction, large-scale project foundation and application architecture 
-design experience;
-6. Familiar with Docker, K8s and Jenkins, able to realize continuous 
-integration and automated deployment;
-7. Be familiar with front-end technologies, such as HTML, CSS and JavaScript;
-Understand big data technology, such as Hadoop, Spark, Hive;
-9. Have SaaS experience, follow the principles of agile development, cross-functional team collaboration, shorten the 
-product iteration cycle;
-10. Have working experience in foreign companies, with professional English document reading, writing and oral 
-communication skills, effective project communication.
+1. Solid JAVA foundation, more than 8 years of Java back-end development experience, and familiar with Python language,
+2. I'm familiar with Spring Boot, Spring Cloud, Mybatis, and have the ability to build highly available and scalable microservice architecture,
+3. I can skillfully use MySQL, Oracle and PostgresSql,
+4. I'm familiar with distributed system, caching, messaging and search technologies. Capable with Redis, Zookeeper and Elasticsearch,
+5. I'm good at/strong in system design, code reconstruction, large-scale project foundation and application architecture
+design,
+6. I'm familiar with Docker, K8s and Jenkins, and can apply CI/CD,
+7. I'm familiar with front-end technologies, such as HTML, CSS and JavaScript,
+8. I understand big data technology, such as Hadoop, Spark, Hive,
+9. I have great deal of SaaS experience, follow the principles of agile, cross-functional team collaboration, and shorten the 
+product iteration cycle,
+10. 5 years working experience in a international company, with professional English document reading, writing and oral 
+communication skills and effective project communication.
 
 
 Project experience:
-Software Asset Management   Senior Software Engineer,  2020.04-present
+Software Asset Management           Senior Software Engineer          April 2020 - present
 Contents:
 The SaaS product helps enterprises manage millions of levels of software data. It first obtains enterprise software 
 installation data collected by UCMDB and software license data maintained by SMAX, and then uses the computing 
 engine to analyze the compliance report of software usage in parallel. According to the report, enterprises can purchase, 
 renew and unsubscribe software on demand, so as to avoid the risk of default and save the cost of enterprises.
-Technical architecture: SpringBoot, K8s, Docker, Jenkins, PostgreSql 
+Technical architecture: SpringBoot, K8s, Docker, Jenkins and PostgreSql 
 Main responsibilities:
-● Lead architecture design, requirements control, technical research, core function development, manpower estimation;
-● Think about products from the user's perspective; Undertake part of product manager work when necessary, do 
-demand collection and cleaning;
-● Review team members' code, participate in group technology learning and sharing, and promote team members' 
-technical;
+● Lead architecture design, requirements control, technical research, core function development, manpower estimation,
+● Think about products from the user's perspective, Undertake part of product owner's work when necessary and do 
+demand collection and cleaning,
+● Review team members' code, participate in group technology learning and sharing, and improving/enhance team members' 
+technical skills,
 ● Refactoring the computing engine, introducing the chain of responsibility design pattern to improve the system 
-scalability;
-● Quartz asynchronously processes computing requests to realize business decoupling;
-● Research and formulate calculation rules for software products;
-● Integrate and import compliance data from third-party SaaS products
+scalability,
+● Quartz asynchronously processes computing requests to realize business decoupling,
+● Research and formulate calculation rules for software products,
+● Integrate and import compliance data from third-party SaaS products.
 
 
-Housing rental standard       Java development engineer     2018.07-2020.03
+Housing rental standard               Java development engineer            July 2018 - March 2020
 Contents:
 Online management of hundreds of thousands of market housing and public rental housing, mainly including housing 
-release, map housing, rental application, contract signing and filing, public rental rental, message push. It has landed in 
+release, map housing, rental application, contract signing and filing, public rental rental, message push. It has successfully landed in 
 dozens of cities such as Sanya, Wuxi, Changde, Zhongxian and Hegang.
-Technical architecture: SprinBoot, ElasticSearch, Redis, Activiti, Docker 
+Technical architecture: SprinBoot, ElasticSearch, Redis, Activiti and Docker 
 Main responsibilities:
-● Participate in technical architecture design, refactoring and optimization of existing code;
-● Participate in component code writing, development and maintenance of system functions and business functions;
+● Participate in technical architecture design, refactoring and optimization of existing code,
+● Participate in component code writing, development and maintenance of system functions and business functions,
 ● Acted as the R&D team leader to assign tasks, formulate schedules, coordinate and communicate, and report work 
-progress;
-● Using ElasticSearch to achieve rapid retrieval of massive housing, and map to find housing;
+progress,
+● Using ElasticSearch to achieve rapid retrieval of massive housing, and map to find housing,
 ● The Activity workflow engine was used to optimize the whole process of contract approval, improving efficiency 
-and process transparency;
+and process transparency,
 ● Applied Redis distributed lock mechanism to solve the problem of housing application conflicts in concurrent 
-environment;
-● Using JUC CountDownLatch mechanism to import massive housing data, the speed is increased by more than 3 times;
+environments,
+● Using JUC CountDownLatch mechanism to import massive housing data, Increasing the speed by more than 3 hundred precent.
 Performance:
 Helped a number of prefecture-level city governments across the country to improve the supervision of all aspects of 
-housing leasing, and realized the informatization of government affairs.
+housing leasing, and realization of the informatization of government affairs.
 
 
 Steel supply chain   Java development   2016.02-2018.07
